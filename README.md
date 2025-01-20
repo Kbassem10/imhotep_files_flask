@@ -1,7 +1,7 @@
 ## Imhotep Files For Flask
 This Python library simplifies file upload and deletion operations in web applications using Flask or similar frameworks. It includes two core functions:
 
-upload_file: Handles file uploads with validation for allowed extensions and secure file saving.
+upload_file: Handles file uploads with validation for allowed extensions and secure file saving. <br>
 delete_file: Safely deletes files from the server.
 # Features
 - Secure filename handling with werkzeug.utils.secure_filename.
